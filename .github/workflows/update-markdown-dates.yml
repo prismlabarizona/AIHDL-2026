@@ -1,0 +1,81 @@
+name: Update Markdown Dates
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - '**.md'
+
+jobs:
+  update-dates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      
+      - name: Update dates in markdown files
+        run: |
+          CURRENT_DATE=$(date +'%B %d, %Y')
+          echo "Updating dates to: $CURRENT_DATE"
+          echo "================================"
+          
+          # PASS 1: Update existing dates in changed .md files
+          CHANGED_FILES=$(git diff --name-only HEAD^ HEAD | grep '\.md$' || true)
+          echo "Pass 1: Changed markdown files:"
+          echo "$CHANGED_FILES"
+          echo ""
+          
+          if [ -n "$CHANGED_FILES" ]; then
+            echo "Updating existing dates in changed files..."
+            for file in $CHANGED_FILES; do
+              if [ -f "$file" ]; then
+                echo "  - $file"
+                sed -i -E "s/Last updated: [A-Z][a-z]+ [0-9]{1,2}, [0-9]{4}/Last updated: $CURRENT_DATE/g" "$file"
+              fi
+            done
+            echo ""
+          fi
+          
+          # PASS 2: Replace [Date] placeholders in ALL .md files
+          echo "Pass 2: Replacing [Date] placeholders in all markdown files..."
+          find . -name "*.md" -type f | while read file; do
+            if grep -q "Last updated: \[Date\]" "$file"; then
+              echo "  - $file"
+              sed -i "s/Last updated: \[Date\]/Last updated: $CURRENT_DATE/g" "$file"
+            fi
+          done
+          echo ""
+          
+      - name: Show all changes
+        run: |
+          echo "Files with changes:"
+          git status --short
+          echo ""
+          echo "Detailed diff:"
+          git diff --stat
+          
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if [[ -n $(git status -s) ]]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+          
+      - name: Commit updated dates
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Add ALL markdown files explicitly
+          find . -name "*.md" -type f -exec git add {} +
+          
+          echo "Files staged for commit:"
+          git diff --cached --name-only
+          echo ""
+          
+          git commit -m "chore: update markdown file dates [skip ci]"
+          git push
