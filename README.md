@@ -289,27 +289,34 @@ Interested in supporting the next generation of hardware designers?
 ## 📁 Repository Structure
 
 ```
-AIHDL-2025-2026/
-├── challenges/                 # Competition challenges
-│   ├── challenge-1/           # First challenge materials
-│   ├── challenge-2/           # Second challenge materials
-│   └── challenge-3/           # Third challenge materials
-│   └── challenge-4/           # Fourth challenge materials
-├── docs/                      # Documentation and guides
-│   ├── getting-started/       # Beginner tutorials
-│   ├── ai-guides/            # AI tool usage guides
-│   └── resources/            # Additional learning materials
-├── examples/                  # Sample designs and templates
-└── submissions/              # Template for team submissions
-|   ├── DP-1/           # First Design phase submissions
-│   ├── DP-2/           # Second Design phase submissions
-│   └── DP-3/           # Third Design phase submissions
-│   └── DP-4/           # Fourth Design phase submissions
-├── tools/                     # Utility scripts and tools
-│   ├── OpenLANE_doc/       # Beginner tutorials
-│   ├── Openroad_doc/            # AI tool usage guides
-│   └── Verilator_doc/            # Additional learning materials
-│   └── Yosys_doc/            # Additional learning materials
+AIHDL-2026/
+├── CONTRIBUTING.md                   # Contribution guidelines
+├── LICENSE                           # Project license
+├── README.md                         # This overview and docs
+├── assets/                           # Images and sponsor assets
+│   └── sponsors/                     # Sponsor logos and images
+├── challenges/                       # Competition challenges
+│   ├── Design Phase 1/               # First challenge materials
+│   ├── Design Phase 2/               # Second challenge materials
+│   ├── Design Phase 3/               # Third challenge materials
+│   └── Design Phase 4/               # Fourth challenge materials
+├── docs/                             # Documentation and guides
+│   ├── getting-started/              # Beginner setup and installation
+│   ├── ai-guides/                    # AI tool usage guides
+│   └── resources/                    # Additional learning materials
+├── examples/                         # Sample designs and templates
+├── submissions/                      # Template for team submissions
+│   ├── DP-1/                         # First Design phase submissions
+│   ├── DP-2/                         # Second Design phase submissions
+│   ├── DP-3/                         # Third Design phase submissions
+│   └── DP-4/                         # Fourth Design phase submissions
+├── tinyqv-full-peripheral-template/  # Example peripheral template with tests and harness
+├── tool_setup/                       # Tool setup documentation for:
+│   ├── OpenLANE_doc/                 # OpenLANE setup docs
+│   ├── Openroad_doc/                 # OpenROAD setup docs
+│   ├── OpenSTA_doc/                  # OpenSTA setup docs
+│   ├── Verilator_doc/                # Verilator setup docs
+│   └── Yosys_doc/                    # Yosys setup docs
 ```
 
 ---
@@ -349,8 +356,6 @@ AIHDL-2025-2026/
 ## 📄 License & Usage
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
-
-    b
 
 **What this means:**
 
