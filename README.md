@@ -39,15 +39,15 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 1. **AI or Die** - *The University of Arizona*
 2. **UET2** - *VNU University of Engineering and Technology* ⭐ *Most Secure Design*
-3. **DigiDynamos** - *Hanoi University of Science and Technology* ⚡ *Best Energy-Efficient Design*
-4. **CC-1** - *Pima Community College* 📐 *Best Area-Efficient Design*
+2. **DigiDynamos** - *Hanoi University of Science and Technology* ⚡ *Best Energy-Efficient Design*
+3. **CC-1** - *Pima Community College* 📐 *Best Area-Efficient Design*
 
 ### **🎓 Upper Division (Graduate Teams)**
 
 1. **UHD CAT** - *University of Heidelberg*
 2. **UET1** - *VNU University of Engineering and Technology*
-3. **UET3** - *VNU University of Engineering and Technology*
-4. **ChipX** - *The University of Arizona*
+2. **UET3** - *VNU University of Engineering and Technology*
+3. **ChipX** - *The University of Arizona*
 
 ---
 
