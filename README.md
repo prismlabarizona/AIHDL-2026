@@ -56,21 +56,20 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 | Date                        | Event                                                                              |
 | --------------------------- | ---------------------------------------------------------------------------------- |
 | **September 22 2025** | Registration Opens                                                                 |
-| **October 7-9 2025**  | League Kickoff Event (@ SEMICON West, Pheonix, AZ)                                 |
-| **October 23  2025**  | Friendlies (Webinar) #1 Released                                                   |
-| **November 20 2025**  | Friendlies (Webinar) #2 Released                                                   |
-| **December 18 2025**  | Friendlies (Webinar) #3 Released                                                   |
-| **December 19 2025**  | Registration Closes                                                                |
-| **January 15 2026**   | League Starts with Design Phase #1 AI generated Verilog Synthesis and verification |
+| **October 30  2025**  | Webinar 1: Overview of AI-HDL, Design Challenge, Tool Flow, Timeline, Rubric, and Submissions                                                   |
+| **November 20 2025**  | Webinar 2: Design Challenge Announcement and Overview                                                   |
+| **December 18 2025**  | Webinar 3: Base Design Implementation Demo and Q&A                                                   |
+| **November 30 2025**  | Registration Closes                                                                |
+| **January 15 2026**   | League Starts with Design Phase #1 Base Design Expansion |
 | **January 29 2026**   | Milestone Review and Office Hours #1                                               |
-| **February 12 2026**  | Design Phase #2 AI Driven PPA Optimization                                         |
+| **February 12 2026**  | Design Phase #2 Design Evaluation and PPA Optimization                                         |
 | **February 26 2026**  | Milestone Review and Office Hours #2                                               |
-| **March 12 2026**     | Design Phase #3 Secure Implementation and Design Optimization                      |
+| **March 12 2026**     | Design Phase #3 Security Evaluation and Threat Mitigation                      |
 | **March 26 2026**     | Milestone Review and Office Hours #3                                               |
-| **April 1 2026**      | Finals – Design Phase #4 Final Design Tape-out Preparation                        |
+| **April 9 2026**      | Design Phase #4: Design Netlist to Chip Tapeout                        |
 | **April 23 2026**     | Milestone Review and Office Hours #4                                               |
-| **May 1 2026**        | League Ends with Final Submission and Design Sign-off                              |
-| **May 14 2026**       | Winner Announcement                                                                |
+| **May 7 2026**        | League Ends with Final Design Submission, Review, and Evaluations.                              |
+| **May 14 2026**       | Winner Announcement.                                                                |
 
 ---
 
