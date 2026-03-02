@@ -29,6 +29,29 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 ---
 
+## 🏅 Design Phase 1 (DP1) Leaderboard 2026
+
+<div align="center">
+
+| Rank | Team | Score |
+|------|------|-------|
+| 1 | ElectroNova | 92 |
+| 2 | Wilcads | 91 |
+| 3 | TechGenius consortium | 90 |
+| 3 | ITIMS' Boys | 90 |
+| 5 | VisionForge | 89 |
+| 5 | Team team | 89 |
+| 7 | Acona Tech | 88 |
+| 7 | Obsidian Order | 88 |
+| 9 | Clocked in | 87 |
+| 9 | ICLab_HUST | 87 |
+| 11 | ICLab_HUST2 | 82 |
+| 12 | Descente | 78 |
+
+</div>
+
+---
+
 ## 🏆 Previous Winners (2025)
 
 ### **🥇 Best Design Overall**
