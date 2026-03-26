@@ -137,7 +137,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 ### **Team Formation**
 
-- **Team Size**: 3-4 students
+- **Team Size**: 3-5 students
 - **Divisions**:
   - Lower Division (Community College & Undergraduate)
   - Upper Division (Graduate)
@@ -177,7 +177,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 ### **Prizes**
 
-- Chip Tapeout for Top 3 Winners.
+- Chip Tapeout for Winners in 2 divisions.
 - Hardware prizes and FPGA development boards
 - Internship opportunities with sponsor companies
 - Recognition at major conferences
