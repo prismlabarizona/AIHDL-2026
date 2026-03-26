@@ -32,22 +32,23 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 ## 🏅 Design Phase 1 (DP1) Leaderboard 2026
 
 <div align="center">
+## 📊 Current Standings
 
-| Rank | Team | Score |
-|------|------|-------|
-| 1 | ElectroNova | 92 |
-| 2 | Wilcads | 91 |
-| 3 | TechGenius consortium | 90 |
-| 3 | ITIMS' Boys | 90 |
-| 5 | VisionForge | 89 |
-| 5 | Team team | 89 |
-| 7 | Acona Tech | 88 |
-| 7 | Obsidian Order | 88 |
-| 9 | Clocked in | 87 |
-| 9 | ICLab_HUST | 87 |
-| 11 | ICLab_HUST2 | 82 |
-| 12 | Descente | 78 |
-
+| Rank | Team | Score | Implementation (30%) | Verification (25%) | Documentation (25%) | Code Quality (20%) |
+| :--- | :--- | :--- | :---: | :---: | :---: | :---: |
+| 1 | **NeCRL** | **98** | 29 | 25 | 24 | 20 |
+| 2 | **ElectroNova** | **96** | 29 | 24 | 24 | 19 |
+| 3 | **Wilcads** | **96** | 28 | 24 | 24 | 20 |
+| 4 | **TechGenius consortium** | **93** | 28 | 23 | 23 | 19 |
+| 4 | **ITIMS' Boys** | **90** | 26 | 24 | 22 | 18 |
+| 6 | **VisionForge** | **89** | 27 | 22 | 22 | 18 |
+| 6 | **Team team** | **89** | 26 | 23 | 22 | 18 |
+| 8 | **Acona Tech** | **88** | 25 | 22 | 23 | 18 |
+| 8 | **Obsidian Order** | **88** | 27 | 21 | 21 | 19 |
+| 10 | **Clocked in** | **87** | 26 | 21 | 22 | 18 |
+| 10 | **ICLab_HUST** | **87** | 25 | 22 | 22 | 18 |
+| 12 | **ICLab_HUST2** | **82** | 24 | 20 | 20 | 18 |
+| 13 | **Descente ** | **80** | 22 | 20 | 20 | 18 |
 </div>
 
 ---
