@@ -53,6 +53,29 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 ---
 
+## 🏅🏅 Design Phase 2 (DP2) Leaderboard 2026
+
+<div align="center">
+## 📊 Current Standings
+
+| Rank | Team | Score | Performance (30%) | Power (25%) | Results & Rep. (25%) | Trade-off Just. (20%) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| 1 | **ITIMS' Boys** | **94** | 28 | 24 | 24 | 18 |
+| 2 | **NeCRL** | **92** | 29 | 23 | 23 | 17 |
+| 3 | **ElectroNova** | **88** | 26 | 22 | 22 | 18 |
+| 4 | **Wilcads** | **86** | 25 | 22 | 22 | 17 |
+| 5 | **TechGenius** | **84** | 26 | 21 | 21 | 16 |
+| 6 | **Descente** | **82** | 25 | 20 | 20 | 17 |
+| 6 | **VisionForge** | **82** | 24 | 21 | 21 | 16 |
+| 8 | **Team team** | **81** | 24 | 20 | 21 | 16 |
+| 9 | **Acona Tech** | **80** | 23 | 21 | 21 | 15 |
+| 10 | **Obsidian Order** | **79** | 24 | 20 | 20 | 15 |
+| 11 | **Clocked in** | **78** | 23 | 20 | 20 | 15 |
+| 11 | **ICLab_HUST** | **78** | 23 | 20 | 20 | 15 |
+| 13 | **ICLab_HUST2** | **76** | 22 | 20 | 20 | 14 |
+
+---
+
 ## 🏆 Previous Winners (2025)
 
 ### **🥇 Best Design Overall**
