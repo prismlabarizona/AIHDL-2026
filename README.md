@@ -59,7 +59,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 <div align="center">
 
 ## 📊 Current Standings
-| Rank | Team | Total Score | Performance (25%) | Power (25%)  | Area (25%) | Final Report/Logs (25%) | PPA Trade-off (25%) |
+| Rank | Team | Score | Performance (25%) | Power (25%)  | Area (25%) | Final Report/Logs (25%) | PPA Trade-off (25%) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | **ITIMS' Boys** | **91** | 19 | 19 | 18 | 18 | 18 |
 | 2 | **NeCRL** | **90** | 19 | 18 | 18 | 18 | 17 |
