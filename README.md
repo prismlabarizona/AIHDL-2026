@@ -59,155 +59,25 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 <div align="center">
 
 ## 📊 Current Standings
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left">Rank</th>
-      <th align="left">Team</th>
-      <th align="center">Total Score</th>
-      <th align="center">Performance</th>
-      <th align="center">Power</th>
-      <th align="center">Area</th>
-      <th align="center">Final Report/Logs</th>
-      <th align="center">PPA Trade-off</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td><strong>ITIMS' Boys</strong></td>
-      <td align="center"><strong>91.4</strong></td>
-      <td align="center">18.7</td>
-      <td align="center">19.2</td>
-      <td align="center">17.5</td>
-      <td align="center">18.0</td>
-      <td align="center">18.0</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td><strong>NeCRL</strong></td>
-      <td align="center"><strong>90.3</strong></td>
-      <td align="center">19.3</td>
-      <td align="center">18.4</td>
-      <td align="center">17.6</td>
-      <td align="center">18.0</td>
-      <td align="center">17.0</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td><strong>ElectroNova</strong></td>
-      <td align="center"><strong>87.7</strong></td>
-      <td align="center">17.3</td>
-      <td align="center">17.6</td>
-      <td align="center">16.8</td>
-      <td align="center">18.0</td>
-      <td align="center">18.0</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td><strong>Wilcads</strong></td>
-      <td align="center"><strong>85.3</strong></td>
-      <td align="center">16.7</td>
-      <td align="center">17.6</td>
-      <td align="center">17.0</td>
-      <td align="center">17.0</td>
-      <td align="center">17.0</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td><strong>TechGenius</strong></td>
-      <td align="center"><strong>83.1</strong></td>
-      <td align="center">17.3</td>
-      <td align="center">16.8</td>
-      <td align="center">16.0</td>
-      <td align="center">17.0</td>
-      <td align="center">16.0</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td><strong>Descente</strong></td>
-      <td align="center"><strong>82.3</strong></td>
-      <td align="center">16.7</td>
-      <td align="center">16.0</td>
-      <td align="center">16.6</td>
-      <td align="center">16.0</td>
-      <td align="center">17.0</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td><strong>VisionForge</strong></td>
-      <td align="center"><strong>81.4</strong></td>
-      <td align="center">16.0</td>
-      <td align="center">16.8</td>
-      <td align="center">15.6</td>
-      <td align="center">17.0</td>
-      <td align="center">16.0</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td><strong>Team team</strong></td>
-      <td align="center"><strong>81.0</strong></td>
-      <td align="center">16.0</td>
-      <td align="center">16.0</td>
-      <td align="center">16.0</td>
-      <td align="center">17.0</td>
-      <td align="center">16.0</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td><strong>Acona Tech</strong></td>
-      <td align="center"><strong>79.5</strong></td>
-      <td align="center">15.3</td>
-      <td align="center">16.8</td>
-      <td align="center">15.4</td>
-      <td align="center">17.0</td>
-      <td align="center">15.0</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td><strong>Obsidian Order</strong></td>
-      <td align="center"><strong>78.7</strong></td>
-      <td align="center">16.0</td>
-      <td align="center">16.0</td>
-      <td align="center">15.7</td>
-      <td align="center">16.0</td>
-      <td align="center">15.0</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td><strong>Clocked in</strong></td>
-      <td align="center"><strong>77.7</strong></td>
-      <td align="center">15.3</td>
-      <td align="center">16.0</td>
-      <td align="center">15.4</td>
-      <td align="center">16.0</td>
-      <td align="center">15.0</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td><strong>ICLab_HUST</strong></td>
-      <td align="center"><strong>77.7</strong></td>
-      <td align="center">15.3</td>
-      <td align="center">16.0</td>
-      <td align="center">15.4</td>
-      <td align="center">16.0</td>
-      <td align="center">15.0</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td><strong>ICLab_HUST2</strong></td>
-      <td align="center"><strong>75.3</strong></td>
-      <td align="center">14.7</td>
-      <td align="center">16.0</td>
-      <td align="center">14.6</td>
-      <td align="center">16.0</td>
-      <td align="center">14.0</td>
-    </tr>
-  </tbody>
-</table>
+| Rank | Team | Total Score | Performance | Power | Area | Final Report/Logs | PPA Trade-off |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | **ITIMS' Boys** | **91.4** | 18.7 | 19.2 | 17.5 | 18.0 | 18.0 |
+| 2 | **NeCRL** | **90.3** | 19.3 | 18.4 | 17.6 | 18.0 | 17.0 |
+| 3 | **ElectroNova** | **87.7** | 17.3 | 17.6 | 16.8 | 18.0 | 18.0 |
+| 4 | **Wilcads** | **85.3** | 16.7 | 17.6 | 17.0 | 17.0 | 17.0 |
+| 5 | **TechGenius** | **83.1** | 17.3 | 16.8 | 16.0 | 17.0 | 16.0 |
+| 6 | **Descente** | **82.3** | 16.7 | 16.0 | 16.6 | 16.0 | 17.0 |
+| 7 | **VisionForge** | **81.4** | 16.0 | 16.8 | 15.6 | 17.0 | 16.0 |
+| 8 | **Team team** | **81.0** | 16.0 | 16.0 | 16.0 | 17.0 | 16.0 |
+| 9 | **Acona Tech** | **79.5** | 15.3 | 16.8 | 15.4 | 17.0 | 15.0 |
+| 10 | **Obsidian Order** | **78.7** | 16.0 | 16.0 | 15.7 | 16.0 | 15.0 |
+| 11 | **Clocked in** | **77.7** | 15.3 | 16.0 | 15.4 | 16.0 | 15.0 |
+| 11 | **ICLab_HUST** | **77.7** | 15.3 | 16.0 | 15.4 | 16.0 | 15.0 |
+| 13  **ICLab_HUST2** | **75.3** | 14.7 | 16.0 | 14.6 | 16.0 | 14.0 |
 
 </div>
+
+---
 
 ## 🏆 Previous Winners (2025)
 
