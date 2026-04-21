@@ -74,9 +74,6 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 | 11 | **ICLab_HUST** | **77.7** | 15.3 | 16.0 | 15.4 | 16.0 | 15.0 |
 | 13 | **ICLab_HUST2** | **75.3** | 14.7 | 16.0 | 14.6 | 16.0 | 14.0 |
 </div>
----
-
-
 
 ---
 
