@@ -56,11 +56,6 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 ## 🏅🏅 Design Phase 2 (DP2) Leaderboard 2026
 
 <div align="center">
-## 📊 Current Standings
-
-## 🏅🏅 Design Phase 2 (DP2) Leaderboard 2026
-
-<div align="center">
 
 ## 📊 Current Standings
 
