@@ -97,7 +97,6 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 | 10 | **Obsidian Order** | **78** | 24 | 20 | 15 | 11 | 8 |
 | 11 | **Clocked in** | **77** | 23 | 20 | 15 | 11 | 8 |
 | 11 | **ICLab_HUST2** | **77** | 23 | 20 | 15 | 11 | 8 |
-| 13 | **Team team**  | **74** | 22 | 20 | 14 | 11 | 7 |
 </div>
 
 ---
