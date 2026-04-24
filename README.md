@@ -78,6 +78,30 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 ---
 
+## 🏅🏅 Design Phase 3 (DP3) Leaderboard 2026
+
+<div align="center">
+
+## 📊 Current Standings
+| Rank | Team | Total Score | Security Feature (30%) | Validation & Hardening (25%) | Security Assessment (20%) | Documentation (15%) | Design Stability (10%) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | **NeCRL** | **92** | 28 | 23 | 18 | 14 | 9 |
+| 2 | **ITIMS' Boys** | **91** | 27 | 24 | 18 | 13 | 9 |
+| 3 | **ElectroNova** | **88** | 26 | 22 | 18 | 13 | 9 |
+| 4 | **Wilcads** | **86** | 25 | 22 | 17 | 13 | 9 |
+| 5 | **Descente** | **83** | 25 | 20 | 17 | 12 | 9 |
+| 6 | **TechGenius** | **82** | 24 | 21 | 16 | 13 | 8 |
+| 7 | **VisionForge** | **81** | 24 | 21 | 16 | 12 | 8 |
+| 8 |  **ICLab_HUST** | **80** | 24 | 20 | 16 | 12 | 8 |
+| 9 | **Acona Tech** | **79** | 23 | 21 | 15 | 12 | 8 |
+| 10 | **Obsidian Order** | **78** | 24 | 20 | 15 | 11 | 8 |
+| 11 | **Clocked in** | **77** | 23 | 20 | 15 | 11 | 8 |
+| 11 | **ICLab_HUST2** | **77** | 23 | 20 | 15 | 11 | 8 |
+| 13 | **Team team**  | **74** | 22 | 20 | 14 | 11 | 7 |
+</div>
+
+---
+
 ## 🏆 Previous Winners (2025)
 
 ### **🥇 Best Design Overall**
