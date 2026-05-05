@@ -33,7 +33,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 <div align="center">
 
-| Rank | Team Name | DP1 | DP2 | DP3 | DP4 |
+| Rank | Team Name | Design Phase 1 | Design Phase 2 | Design Phase 3 | Design Phase 4 |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | 1 | **NeCRL** | 98 | 90 | 92 | TBD |
 | 2 | **ITIMS' Boys** | 90 | 91 | 91 | TBD |
