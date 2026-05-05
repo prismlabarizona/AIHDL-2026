@@ -48,7 +48,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 | 11 | **Clocked in** | 87 | 78 | 77 | TBD |
 | 12 | **ICLab_HUST2** | 82 | 75 | 77 | TBD |
 | 13 | **Team team** | 89 | 81 | -- | TBD |
-<div>
+</div>
 
 > *DP4 scores are currently pending.*
 
