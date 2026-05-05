@@ -29,7 +29,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 ---
 
-## 🏆 Unified Design Phase Leaderboard (2026)
+## 🏆 Unified Design Phase Leaderboard 2026
 
 <div align="center">
 
