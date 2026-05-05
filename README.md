@@ -28,6 +28,28 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 [[AI-HDL Introduction Video part 2]](https://www.youtube.com/watch?v=HUBlg8Xvp3Q)
 
 ---
+<div align="center">
+## 🏆 Unified Design Phase Leaderboard (2026)
+
+| Rank | Team Name | DP1 | DP2 | DP3 | DP4 |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| 1 | **NeCRL** | 98 | 90 | 92 | TBD |
+| 2 | **ITIMS' Boys** | 90 | 91 | 91 | TBD |
+| 3 | **ElectroNova** | 96 | 88 | 88 | TBD |
+| 4 | **Wilcads** | 96 | 85 | 86 | TBD |
+| 5 | **TechGenius** | 93 | 83 | 82 | TBD |
+| 6 | **VisionForge** | 89 | 81 | 81 | TBD |
+| 7 | **Acona Tech** | 88 | 80 | 79 | TBD |
+| 8 | **Descente** | 80 | 82 | 83 | TBD | 
+| 9 | **ICLab_HUST** | 87 | 78 | 80 | TBD |
+| 10 | **Obsidian Order** | 88 | 79 | 78 | TBD |
+| 11 | **Clocked in** | 87 | 78 | 77 | TBD |
+| 12 | **ICLab_HUST2** | 82 | 75 | 77 | TBD |
+| 13 | **Team team** | 89 | 81 | -- | TBD |
+
+> *DP4 scores are currently pending.*
+<div>
+---
 
 ## 🏅 Design Phase 1 (DP1) Leaderboard 2026
 
