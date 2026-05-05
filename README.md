@@ -50,7 +50,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 | 13 | **Team team** | 89 | 81 | -- | TBD |
 </div>
 
-> *DP4 scores are currently pending.*
+ *DP4 scores are currently pending.*
 
 ---
 
