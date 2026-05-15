@@ -30,6 +30,38 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 ---
 <div align="center">
 
+## 🏆 AI-HDL 2026 Winners 
+
+### **🥇 Best Design Overall**
+
+**SFSU-NeCRL** - *San Fransico State University, USA*
+
+### **🎓 Lower Division (Community College & Undergraduate)**
+
+1. **ITIMS Boys** - *Hanoi University of Science and Technology, Vietnam*
+2. **Electronova** - *College of Engineering Trivandrum, India*
+3. **Maestro** - *The University of Arizona, USA*
+
+### **🎓 Upper Division (Graduate Teams - MS & PhD)**
+
+1. **SFSU-NeCRL** - *San Fransico State University, USA*
+2. **Devrem** - *Yildiz Technical University, Türkiye*
+3. **Team Team** - *KU Leuven, Belgium*
+
+### **🥇 Most Secure Design**
+
+**Acona-Tech** - *Ankara Yıldırım Beyazıt University, Turkey*
+
+### **🥇 Best Area-Efficient Design**
+
+**ICLAB_HUST2** - *Hanoi University of Science and Technology, Vietnam*
+
+### **🥇 Best Energy-Efficient Design**
+
+**HUST1** - *Hanoi University of Science and Technology, Vietnam*
+
+---
+
 ## 🏆 Unified Design Phase Leaderboard 2026
 
 | Rank | Team Name | Design Phase 1 | Design Phase 2 | Design Phase 3 | Design Phase 4 |
