@@ -67,21 +67,28 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 | Rank | Team Name | Design Phase 1 | Design Phase 2 | Design Phase 3 | Design Phase 4 |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| 1 | **NeCRL** | 98 | 90 | 92 | TBD |
-| 2 | **ITIMS' Boys** | 90 | 91 | 91 | TBD |
-| 3 | **ElectroNova** | 96 | 88 | 88 | TBD |
-| 4 | **Wilcads** | 96 | 85 | 86 | TBD |
-| 5 | **TechGenius** | 93 | 83 | 82 | TBD |
-| 6 | **VisionForge** | 89 | 81 | 81 | TBD |
-| 7 | **Acona Tech** | 88 | 80 | 79 | TBD |
-| 8 | **Descente** | 80 | 82 | 83 | TBD |
-| 9 | **ICLab_HUST** | 87 | 78 | 80 | TBD |
-| 10 | **Obsidian Order** | 88 | 79 | 78 | TBD |
-| 11 | **Clocked in** | 87 | 78 | 77 | TBD |
-| 12 | **ICLab_HUST2** | 82 | 75 | 77 | TBD |
-| 13 | **Team team** | 89 | 81 | -- | TBD |
-
-*DP4 scores are currently pending.*
+| 1 | **NeCRL** | 98 | 95 | 96 | 97 |
+| 2 | **ITIMS' Boys** | 96 | 94 | 95 | 94 |
+| 3 | **ElectroNova** | 95 | 93 | 92 | 93 |
+| 4 | **Devrem** | 94 | 92 | 93 | 91 |
+| 5 | **Maestro** | 93 | 91 | 90 | 92 |
+| 6 | **Team team** | 92 | 90 | 91 | 89 |
+| 7 | **Acona Tech** | 91 | 89 | 88 | 90 |
+| 8 | **ICLab_HUST2** | 90 | 88 | 89 | 87 |
+| 9 | **HUST1** | 89 | 87 | 86 | 88 |
+| 10 | **Wilcads** | 88 | 86 | 85 | 86 |
+| 11 | **Farmceries** | 86 | 84 | 85 | 84 |
+| 12 | **Obsidian Order** | 85 | 85 | 83 | 85 |
+| 13 | **Circuitrix** | 84 | 82 | 83 | 82 |
+| 14 | **UCC Eng Phys Group** | 83 | 84 | 81 | 83 |
+| 15 | **TechGenius** | 82 | 83 | 82 | 81 |
+| 16 | **Astral Coders** | 82 | 80 | 81 | 80 |
+| 17 | **VisionForge** | 80 | 81 | 78 | 80 |
+| 18 | **HUSD** | 79 | 79 | 80 | 78 |
+| 19 | **Bell labs** | 78 | 79 | 77 | 77 |
+| 20 | **ICLab_HUST** | 76 | 75 | 76 | 75 |
+| 21 | **BIG4** | 75 | 74 | 75 | 74 |
+| 22 | **Ingenius** | 72 | 71 | 73 | 73 |
 
 </div>
 
