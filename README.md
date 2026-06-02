@@ -65,30 +65,30 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 <div align="center">
 
-| Rank | Team Name | Design Phase 1 | Design Phase 2 | Design Phase 3 | Design Phase 4 |
-| :--- | :--- | :---: | :---: | :---: | :---: |
-| 1 | **NeCRL, San Fransicso State University, USA** | 98 | 95 | 96 | 97 |
-| 2 | **ITIMS' Boys, Hanoi University of Science and Technology, Vietnam** | 96 | 94 | 95 | 94 |
-| 3 | **ElectroNova, College of Engineering Trivandrum, India** | 95 | 93 | 92 | 93 |
-| 4 | **Devrem Yildiz Technical University, Türkiye** | 94 | 92 | 93 | 91 |
-| 5 | **Maestro, The University of Arizona, USA** | 93 | 91 | 90 | 92 |
-| 6 | **Team team, KU Leuven, Belgium** | 92 | 90 | 91 | 89 |
-| 7 | **Acona Tech, Ankara Yıldırım Beyazıt University, Turkey** | 91 | 89 | 88 | 90 |
-| 8 | **ICLab_HUST2, Hanoi University of Science and Technology, Vietnam** | 90 | 88 | 89 | 87 |
-| 9 | **HUST1, Hanoi University of Science and Technology, Vietnam** | 89 | 87 | 86 | 88 |
-| 10 | **Wilcads, The University of Arizona, USA** | 88 | 86 | 85 | 86 |
-| 11 | **Farmceries, University of Lagos, Nigeria** | 86 | 84 | 85 | 84 |
-| 12 | **Obsidian Order, Jomo Kenyatta University of Agriculture and Technology, Kenya** | 85 | 85 | 83 | 85 |
-| 13 | **Circuitrix, Obafemi Awolowo University, Ile-Ife, Nigeria** | 84 | 82 | 83 | 82 |
-| 14 | **UCC Eng Phys Group, University of Cape Coast, Ghana** | 83 | 84 | 81 | 83 |
-| 15 | **TechGenius, Regent University College of Science and Technology, Ghana** | 82 | 83 | 82 | 81 |
-| 16 | **Astral Coders, University of Lagos, Nigeria** | 82 | 80 | 81 | 80 |
-| 17 | **VisionForge, The University of Arizona, USA** | 80 | 81 | 78 | 80 |
-| 18 | **HUSD, Hanoi University of Science and Technology, Vietnam** | 79 | 79 | 80 | 78 |
-| 19 | **Bell labs, University of Lagos, Nigeria** | 78 | 79 | 77 | 77 |
-| 20 | **ICLab_HUST, Hanoi University of Science and Technology, Vietnam** | 76 | 75 | 76 | 75 |
-| 21 | **BIG4, Hanoi University of Science and Technology, Vietnam** | 75 | 74 | 75 | 74 |
-| 22 | **Ingenius, University of Lagos, Nigeria** | 72 | 71 | 73 | 73 |
+| Rank | Team Name | Institute & Country | Design Phase 1 | Design Phase 2 | Design Phase 3 | Design Phase 4 |
+| :--- | :--- | :--- | :---: | :---: | :---: | :---: |
+| 1 | **NeCRL** | San Fransicso State University, USA | 98 | 95 | 96 | 97 |
+| 2 | **ITIMS' Boys** | Hanoi University of Science and Technology, Vietnam | 96 | 94 | 95 | 94 |
+| 3 | **ElectroNova** | College of Engineering Trivandrum, India | 95 | 93 | 92 | 93 |
+| 4 | **Devrem** | Yildiz Technical University,  Turkey | 94 | 92 | 93 | 91 |
+| 5 | **Maestro** | The University of Arizona, USA | 93 | 91 | 90 | 92 |
+| 6 | **Team team** | Katholieke Universiteit Leuven, Belgium | 92 | 90 | 91 | 89 |
+| 7 | **Acona Tech** | Ankara Yıldırım Beyazıt University, Turkey | 91 | 89 | 88 | 90 |
+| 8 | **ICLab_HUST2** | Hanoi University of Science and Technology, Vietnam | 90 | 88 | 89 | 87 |
+| 9 | **HUST1** | Hanoi University of Science and Technology, Vietnam | 89 | 87 | 86 | 88 |
+| 10 | **Wilcads** | The University of Arizona, USA | 88 | 86 | 85 | 86 |
+| 11 | **Farmceries** | University of Lagos, Nigeria | 86 | 84 | 85 | 84 |
+| 12 | **Obsidian Order** | Jomo Kenyatta University of Agriculture and Technology, Kenya | 85 | 85 | 83 | 85 |
+| 13 | **Circuitrix** | Obafemi Awolowo University, Nigeria | 84 | 82 | 83 | 82 |
+| 14 | **UCC Eng Phys Group** | University of Cape Coast, Ghana | 83 | 84 | 81 | 83 |
+| 15 | **TechGenius** | Regent University College of Science and Technology, Ghana | 82 | 83 | 82 | 81 |
+| 16 | **Astral Coders** | University of Lagos, Nigeria | 82 | 80 | 81 | 80 |
+| 17 | **VisionForge** | The University of Arizona, USA | 80 | 81 | 78 | 80 |
+| 18 | **HUSD** | Hanoi University of Science and Technology, Vietnam** | 79 | 79 | 80 | 78 |
+| 19 | **Bell labs** | University of Lagos, Nigeria | 78 | 79 | 77 | 77 |
+| 20 | **ICLab_HUST** | Hanoi University of Science and Technology, Vietnam | 76 | 75 | 76 | 75 |
+| 21 | **BIG4** | Hanoi University of Science and Technology, Vietnam | 75 | 74 | 75 | 74 |
+| 22 | **Ingenius** | University of Lagos, Nigeria | 72 | 71 | 73 | 73 |
 
 </div>
 
