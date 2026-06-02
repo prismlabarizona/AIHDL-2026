@@ -84,7 +84,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 | 15 | **TechGenius** | Regent University College of Science and Technology, Ghana | 82 | 83 | 82 | 81 |
 | 16 | **Astral Coders** | University of Lagos, Nigeria | 82 | 80 | 81 | 80 |
 | 17 | **VisionForge** | The University of Arizona, USA | 80 | 81 | 78 | 80 |
-| 18 | **HUSD** | Hanoi University of Science and Technology, Vietnam** | 79 | 79 | 80 | 78 |
+| 18 | **HUSD** | Hanoi University of Science and Technology, Vietnam | 79 | 79 | 80 | 78 |
 | 19 | **Bell labs** | University of Lagos, Nigeria | 78 | 79 | 77 | 77 |
 | 20 | **ICLab_HUST** | Hanoi University of Science and Technology, Vietnam | 76 | 75 | 76 | 75 |
 | 21 | **BIG4** | Hanoi University of Science and Technology, Vietnam | 75 | 74 | 75 | 74 |
