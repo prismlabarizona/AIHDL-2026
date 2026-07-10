@@ -92,8 +92,8 @@ Help design future challenges:
 ### Getting Started
 ```bash
 # Fork and clone the repository
-git clone https://github.com/yourusername/AIHDL-2025-2026.git
-cd AIHDL-2025-2026
+git clone https://github.com/prismlabarizona/AIHDL-2026.git
+cd AIHDL-2026
 
 # Create a development branch
 git checkout -b your-feature-branch
@@ -101,8 +101,8 @@ git checkout -b your-feature-branch
 # Make your changes
 # ...
 
-# Test your changes
-./scripts/test-documentation.sh  # If available
+# Test your changes as appropriate for your contribution type  
+# (e.g., test links and examples for docs, testing tool improvements on multiple platforms - Linux, macOS, Windows)
 
 # Commit and push
 git add .
