@@ -49,7 +49,7 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 
 ### **🥇 Most Secure Design**
 
-**Acona-Tech** - *Ankara Yıldırım Beyazıt University, Turkey*
+**Acona-Tech** - *Ankara Yıldırım Beyazıt University,  Türkiye*
 
 ### **🥇 Best Area-Efficient Design**
 
@@ -70,10 +70,10 @@ The **AI Hardware Design League (AI-HDL)** is an innovative educational competit
 | 1 | **NeCRL** | San Fransicso State University, USA | 98 | 95 | 96 | 97 |
 | 2 | **ITIMS' Boys** | Hanoi University of Science and Technology, Vietnam | 96 | 94 | 95 | 94 |
 | 3 | **ElectroNova** | College of Engineering Trivandrum, India | 95 | 93 | 92 | 93 |
-| 4 | **Devrem** | Yildiz Technical University,  Turkey | 94 | 92 | 93 | 91 |
+| 4 | **Devrem** | Yildiz Technical University,   Türkiye | 94 | 92 | 93 | 91 |
 | 5 | **Maestro** | The University of Arizona, USA | 93 | 91 | 90 | 92 |
 | 6 | **Team team** | Katholieke Universiteit Leuven, Belgium | 92 | 90 | 91 | 89 |
-| 7 | **Acona Tech** | Ankara Yıldırım Beyazıt University, Turkey | 91 | 89 | 88 | 90 |
+| 7 | **Acona Tech** | Ankara Yıldırım Beyazıt University,  Türkiye | 91 | 89 | 88 | 90 |
 | 8 | **ICLab_HUST2** | Hanoi University of Science and Technology, Vietnam | 90 | 88 | 89 | 87 |
 | 9 | **HUST1** | Hanoi University of Science and Technology, Vietnam | 89 | 87 | 86 | 88 |
 | 10 | **Wilcads** | The University of Arizona, USA | 88 | 86 | 85 | 86 |
