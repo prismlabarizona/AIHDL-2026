@@ -1,0 +1,68 @@
+# Tiny Tapeout sky-26c (ttsky26c) project information
+yaml_version: 6
+
+project:
+  title:        "NeCRL AES-128 Encryption Peripheral"
+  author:       "Team NeCRL (Parsa Mirfasihi, Waylon Woo, Ethan Weldon) - SFSU"
+  discord:      ""
+  description:  "AES-128 hardware encryption peripheral for a TinyQV RISC-V SoC. Composite-field S-box, 2-phase pipelined round, one-hot fault-detecting FSM, LFSR DPA countermeasure, FIPS-197 power-on self-test, and write-only key registers."
+  language:     "Verilog"
+  clock_hz:     57100000
+
+  # ttsky26c tile budget. Final DP4 implementation closed on a 4x2 tile.
+  tiles:        "4x2"
+
+  # Top module must start with tt_um_ for the ttsky26c shuttle.
+  top_module:   "tt_um_necrl_aes128"
+
+  # Source files, relative to src/. TinyTapeout harness + TinyQV peripheral wrapper
+  # + the AES-128 core submodules + the SPI register-bus test harness.
+  source_files:
+    - "tt_wrapper.v"
+    - "tqvp_necrl_aes128.v"
+    - "AES_memory.v"
+    - "AES_control_unit.v"
+    - "AES_key_engine.v"
+    - "AES_encryption_engine.v"
+    - "mix_columns.v"
+    - "sbox_lookup.v"
+    - "test_harness/synchronizer.sv"
+    - "test_harness/spi_reg.sv"
+    - "test_harness/reclocking.sv"
+    - "test_harness/rising_edge_detector.sv"
+    - "test_harness/falling_edge_detector.sv"
+
+# Pinout. The AES core is accessed purely through the TinyQV peripheral
+# register bus; the dedicated ui_in / uo_out byte lanes are unused by the
+# datapath. The done interrupt is surfaced on the standard TinyQV peripheral
+# harness user_interrupt line (uio_out[0]).
+pinout:
+  # Dedicated inputs (unused by the AES datapath)
+  ui[0]: ""
+  ui[1]: ""
+  ui[2]: ""
+  ui[3]: ""
+  ui[4]: ""
+  ui[5]: ""
+  ui[6]: ""
+  ui[7]: ""
+
+  # Dedicated outputs (unused by the AES datapath)
+  uo[0]: ""
+  uo[1]: ""
+  uo[2]: ""
+  uo[3]: ""
+  uo[4]: ""
+  uo[5]: ""
+  uo[6]: ""
+  uo[7]: ""
+
+  # Bidirectional pins (TinyQV register-bus access via the SPI harness)
+  uio[0]: "user_interrupt (done) - out"
+  uio[1]: "data_ready - out"
+  uio[2]: ""
+  uio[3]: "register-bus SPI MISO - out"
+  uio[4]: "register-bus SPI CS_N - in"
+  uio[5]: "register-bus SPI SCLK - in"
+  uio[6]: "register-bus SPI MOSI - in"
+  uio[7]: ""
