@@ -1,0 +1,58 @@
+# Tiny Tapeout sky-26c (ttsky26c) project information
+yaml_version: 6
+
+project:
+  title:        "ITIMS Secure Autonomous SPI Master"
+  author:       "Team ITIMS-Boys (HUST/ITIMS)"
+  discord:      ""
+  description:  "Secure full-duplex SPI master for the TinyQV RISC-V SoC. Supports all four SPI modes, 4-8 bit words, LSB/MSB-first, manual CS override and transfer-complete IRQ, plus a 32-bit tamper-evident hardware lock, an autonomous sleep-walker polling FSM with interval timers, and a serial CRC-16-CCITT engine."
+  language:     "Verilog"
+  clock_hz:     71430000
+
+  tiles:        "2x2"
+
+  top_module:   "tt_um_itims_spi"
+
+  # Source files, relative to src/.
+  source_files:
+    - "tt_wrapper.v"
+    - "itims_spi.v"
+    - "test_harness/synchronizer.sv"
+    - "test_harness/spi_reg.sv"
+    - "test_harness/reclocking.sv"
+    - "test_harness/rising_edge_detector.sv"
+    - "test_harness/falling_edge_detector.sv"
+
+# Pinout. The SPI master's data pins use the dedicated ui_in/uo_out lanes.
+# The TinyQV register bus is accessed over the SPI peripheral harness on the
+# uio pins.
+pinout:
+  # Dedicated inputs
+  ui[0]: "SPI MISO (master data in)"
+  ui[1]: ""
+  ui[2]: ""
+  ui[3]: ""
+  ui[4]: ""
+  ui[5]: ""
+  ui[6]: ""
+  ui[7]: ""
+
+  # Dedicated outputs
+  uo[0]: "SPI SCLK (CPOL-adjusted)"
+  uo[1]: "SPI MOSI (master data out)"
+  uo[2]: "SPI CS_N (chip select, active low)"
+  uo[3]: "user_interrupt (transfer complete / sleep-walker IRQ)"
+  uo[4]: ""
+  uo[5]: ""
+  uo[6]: ""
+  uo[7]: ""
+
+  # Bidirectional pins (TinyQV register-bus access via the SPI harness)
+  uio[0]: "user_interrupt - out"
+  uio[1]: "data_ready - out"
+  uio[2]: ""
+  uio[3]: "register-bus SPI MISO - out"
+  uio[4]: "register-bus SPI CS_N - in"
+  uio[5]: "register-bus SPI SCLK - in"
+  uio[6]: "register-bus SPI MOSI - in"
+  uio[7]: ""
